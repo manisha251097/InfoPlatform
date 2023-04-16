@@ -1,0 +1,42 @@
+.MainPage{
+ background-color: 	#e7edf5 ;
+}
+.colorcodewhite{
+  background-color:white;
+}
+.Topbar{
+  height:80px;
+  padding:10px;
+}
+.NavAndTabsContent{
+  display:flex;
+  height:822px;
+
+}
+.Navbar{
+  margin:20px;
+  width:12%;
+  border-radius: 15px;
+  padding:15px;
+  
+}
+.TabsContent{
+  margin:20px 20px 20px 0px;
+  width:83%;
+  border-radius: 15px;
+  padding: 35px;
+}
+.logoText{
+  display:flex;
+  align-items: center;
+ 
+
+}
+.logoText1{
+  font-size: 18px;
+  font-weight: 500;
+}
+
+
+
+

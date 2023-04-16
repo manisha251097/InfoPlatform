@@ -1,0 +1,24 @@
+.sidepopup_wrapper .sidepopup_sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 25%;
+    height: 100%;
+    /* padding: 20px 0; */
+    margin-left: 72%;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    transition: all 1s ease;
+    z-index: 1;
+    background-color: white;
+    float:right;
+    padding:30px;
+
+  }
+  .sidepopup_sidebar {
+    height: 100%;
+    
+    
+   
+  }
+
+  

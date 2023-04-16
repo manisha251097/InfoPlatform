@@ -1,0 +1,13 @@
+
+.sidemenuMain:hover {
+  background-color: #ffeeee;
+  color: rgb(182, 51, 51);
+ 
+}
+
+.sidemenuMain{
+  padding:12px;
+  color:	#909090;
+  font-weight:500
+
+}
